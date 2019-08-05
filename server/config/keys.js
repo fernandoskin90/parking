@@ -2,10 +2,10 @@ module.exports = {
   jwtConfig: {
     secret: 'api_placeholder**'
   },
-  mongoURI: 'mongodb://fernando:Athenea1329@ds141410.mlab.com:41410/fernando-arkix',
+  mongoURI: 'mongodb://nando:kira1329@ds261096.mlab.com:61096/fernando-cafeto',
   sessionConfig: {
     resave: true,
     saveUninitialized: true,
     secret: 'KiraAthenea'
-  } 
-}
+  }
+};
